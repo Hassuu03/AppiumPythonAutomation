@@ -1,0 +1,84 @@
+12032025 12:15:45 AM - BasePage.py:[23] - [INFO] - Clicking on Element: hotels_XPATH
+12032025 12:15:46 AM - BasePage.py:[23] - [INFO] - Clicking on Element: destination_XPATH
+12032025 12:15:48 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: ['Delhi']
+12032025 12:15:50 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:15:51 AM - BasePage.py:[23] - [INFO] - Clicking on Element: searchbtn_XPATH
+12032025 12:16:01 AM - BasePage.py:[23] - [INFO] - Clicking on Element: hotels_XPATH
+12032025 12:16:04 AM - BasePage.py:[23] - [INFO] - Clicking on Element: destination_XPATH
+12032025 12:16:06 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: ['Dubai']
+12032025 12:16:07 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:16:09 AM - BasePage.py:[23] - [INFO] - Clicking on Element: searchbtn_XPATH
+12032025 12:16:21 AM - BasePage.py:[23] - [INFO] - Clicking on Element: villas_XPATH
+12032025 12:16:22 AM - BasePage.py:[23] - [INFO] - Clicking on Element: area_XPATH
+12032025 12:16:24 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: Delhi
+12032025 12:16:25 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:16:27 AM - BasePage.py:[23] - [INFO] - Clicking on Element: SelectDate_XPATH
+12032025 12:16:32 AM - BasePage.py:[23] - [INFO] - Clicking on Element: fromDate_XPATH
+12032025 12:16:33 AM - BasePage.py:[23] - [INFO] - Clicking on Element: toDate_XPATH
+12032025 12:16:34 AM - BasePage.py:[23] - [INFO] - Clicking on Element: continue_XPATH
+12032025 12:16:35 AM - BasePage.py:[23] - [INFO] - Clicking on Element: viewstays_XPATH
+12032025 12:17:20 AM - BasePage.py:[23] - [INFO] - Clicking on Element: villas_XPATH
+12032025 12:17:24 AM - BasePage.py:[23] - [INFO] - Clicking on Element: area_XPATH
+12032025 12:17:26 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: Dubai
+12032025 12:17:27 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:17:29 AM - BasePage.py:[23] - [INFO] - Clicking on Element: SelectDate_XPATH
+12032025 12:17:32 AM - BasePage.py:[23] - [INFO] - Clicking on Element: fromDate_XPATH
+12032025 12:17:32 AM - BasePage.py:[23] - [INFO] - Clicking on Element: toDate_XPATH
+12032025 12:17:33 AM - BasePage.py:[23] - [INFO] - Clicking on Element: continue_XPATH
+12032025 12:17:35 AM - BasePage.py:[23] - [INFO] - Clicking on Element: viewstays_XPATH
+12032025 12:27:01 AM - BasePage.py:[23] - [INFO] - Clicking on Element: hotels_XPATH
+12032025 12:27:02 AM - BasePage.py:[23] - [INFO] - Clicking on Element: destination_XPATH
+12032025 12:27:04 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: ['Delhi']
+12032025 12:27:05 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:27:07 AM - BasePage.py:[23] - [INFO] - Clicking on Element: searchbtn_XPATH
+12032025 12:27:31 AM - BasePage.py:[23] - [INFO] - Clicking on Element: hotels_XPATH
+12032025 12:27:33 AM - BasePage.py:[23] - [INFO] - Clicking on Element: destination_XPATH
+12032025 12:27:35 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: ['Dubai']
+12032025 12:27:36 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:27:38 AM - BasePage.py:[23] - [INFO] - Clicking on Element: searchbtn_XPATH
+12032025 12:27:54 AM - BasePage.py:[23] - [INFO] - Clicking on Element: villas_XPATH
+12032025 12:27:55 AM - BasePage.py:[23] - [INFO] - Clicking on Element: area_XPATH
+12032025 12:27:56 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: Delhi
+12032025 12:28:00 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:28:01 AM - BasePage.py:[23] - [INFO] - Clicking on Element: SelectDate_XPATH
+12032025 12:28:03 AM - BasePage.py:[23] - [INFO] - Clicking on Element: fromDate_XPATH
+12032025 12:28:04 AM - BasePage.py:[23] - [INFO] - Clicking on Element: toDate_XPATH
+12032025 12:28:05 AM - BasePage.py:[23] - [INFO] - Clicking on Element: continue_XPATH
+12032025 12:28:06 AM - BasePage.py:[23] - [INFO] - Clicking on Element: viewstays_XPATH
+12032025 12:30:02 AM - BasePage.py:[23] - [INFO] - Clicking on Element: villas_XPATH
+12032025 12:30:04 AM - BasePage.py:[23] - [INFO] - Clicking on Element: area_XPATH
+12032025 12:30:06 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: Dubai
+12032025 12:30:07 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:30:08 AM - BasePage.py:[23] - [INFO] - Clicking on Element: SelectDate_XPATH
+12032025 12:30:10 AM - BasePage.py:[23] - [INFO] - Clicking on Element: fromDate_XPATH
+12032025 12:30:11 AM - BasePage.py:[23] - [INFO] - Clicking on Element: toDate_XPATH
+12032025 12:30:12 AM - BasePage.py:[23] - [INFO] - Clicking on Element: continue_XPATH
+12032025 12:30:13 AM - BasePage.py:[23] - [INFO] - Clicking on Element: viewstays_XPATH
+12032025 12:30:59 AM - BasePage.py:[23] - [INFO] - Clicking on Element: hotels_XPATH
+12032025 12:31:01 AM - BasePage.py:[23] - [INFO] - Clicking on Element: destination_XPATH
+12032025 12:31:03 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: ['Delhi']
+12032025 12:31:04 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:31:06 AM - BasePage.py:[23] - [INFO] - Clicking on Element: searchbtn_XPATH
+12032025 12:31:16 AM - BasePage.py:[23] - [INFO] - Clicking on Element: hotels_XPATH
+12032025 12:31:19 AM - BasePage.py:[23] - [INFO] - Clicking on Element: destination_XPATH
+12032025 12:31:21 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: ['Dubai']
+12032025 12:31:23 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:31:24 AM - BasePage.py:[23] - [INFO] - Clicking on Element: searchbtn_XPATH
+12032025 12:31:34 AM - BasePage.py:[23] - [INFO] - Clicking on Element: villas_XPATH
+12032025 12:31:35 AM - BasePage.py:[23] - [INFO] - Clicking on Element: area_XPATH
+12032025 12:31:36 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: Delhi
+12032025 12:31:39 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:31:39 AM - BasePage.py:[23] - [INFO] - Clicking on Element: SelectDate_XPATH
+12032025 12:31:41 AM - BasePage.py:[23] - [INFO] - Clicking on Element: fromDate_XPATH
+12032025 12:31:42 AM - BasePage.py:[23] - [INFO] - Clicking on Element: toDate_XPATH
+12032025 12:31:43 AM - BasePage.py:[23] - [INFO] - Clicking on Element: continue_XPATH
+12032025 12:31:44 AM - BasePage.py:[23] - [INFO] - Clicking on Element: viewstays_XPATH
+12032025 12:33:06 AM - BasePage.py:[23] - [INFO] - Clicking on Element: villas_XPATH
+12032025 12:33:09 AM - BasePage.py:[23] - [INFO] - Clicking on Element: area_XPATH
+12032025 12:33:11 AM - BasePage.py:[35] - [INFO] - Typing in Element: searchtext_XPATH | Value entered: Dubai
+12032025 12:33:13 AM - BasePage.py:[23] - [INFO] - Clicking on Element: selectlocation_XPATH
+12032025 12:33:14 AM - BasePage.py:[23] - [INFO] - Clicking on Element: SelectDate_XPATH
+12032025 12:33:16 AM - BasePage.py:[23] - [INFO] - Clicking on Element: fromDate_XPATH
+12032025 12:33:17 AM - BasePage.py:[23] - [INFO] - Clicking on Element: toDate_XPATH
+12032025 12:33:18 AM - BasePage.py:[23] - [INFO] - Clicking on Element: continue_XPATH
+12032025 12:33:19 AM - BasePage.py:[23] - [INFO] - Clicking on Element: viewstays_XPATH

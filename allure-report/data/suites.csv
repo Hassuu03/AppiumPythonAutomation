@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","89438","test_searchVilla[Delhi-Airport Hotel Earth]","TestCases","2025-12-03","passed","2025-12-03","Test_SearchVilla","test_search_villas","",""
+"","15951","test_searchHotel[city0]","TestCases","2025-12-03","passed","2025-12-03","Test_SearchHotel","test_search_hotel","",""
+"","14463","test_searchHotel[city1]","TestCases","2025-12-03","passed","2025-12-03","Test_SearchHotel","test_search_hotel","",""
+"","21172","test_searchVilla[Dubai-Citymax Hotel Bur Dubai]","TestCases","2025-12-03","passed","2025-12-03","Test_SearchVilla","test_search_villas","",""

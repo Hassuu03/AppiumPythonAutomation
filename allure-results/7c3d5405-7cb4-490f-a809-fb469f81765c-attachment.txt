@@ -1,0 +1,9 @@
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: villas_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: area_XPATH
+INFO     Pages.BasePage:BasePage.py:35 Typing in Element: searchtext_XPATH | Value entered: Dubai
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: selectlocation_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: SelectDate_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: fromDate_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: toDate_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: continue_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: viewstays_XPATH

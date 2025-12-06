@@ -1,0 +1,5 @@
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: hotels_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: destination_XPATH
+INFO     Pages.BasePage:BasePage.py:35 Typing in Element: searchtext_XPATH | Value entered: ['Delhi']
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: selectlocation_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on Element: searchbtn_XPATH
